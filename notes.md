@@ -25,8 +25,13 @@
 
 - For the last part of this tutorial, we were pushed to try some other simple plots by following the tutorial linked. I was struggling for sume reason to upload the text files to Rstudio in the first place. After some research, I stubled across this link: http://www.sthda.com/english/wiki/reading-data-from-txt-csv-files-r-base-functions , which showed me this code: **my_data <- read.delim(file.choose())** , which allows me to choose a text file from anywhere on my computer. I simply saved the tauras.txt file to a designated folder and selected it using that code. From there I followed the first tutorial and made a few other basic plots!
 
-- Here is the "Tarsus" plot examples:
-
+- Here are the "Tarsus" plot examples:
 ![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/TarsusA.png)
 ![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/TarsusB.png)
 ![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/TarsusC.png)
+
+- Here are the "Unicorn" plot examples:
+![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/UnicornA.png)
+![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/unicornB.png)
+![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/unicornC.png)
+![Chart](https://github.com/Elissap5100/Week-Four-Work/blob/master/unicornD.png)
