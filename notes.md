@@ -108,3 +108,32 @@ Feel free to change the height and width values or other styling below: -->
 - Lord was not too far behind, used as both a title and as in God
 - The word 'devil' was used more than the word queen in all the texts
 - any files created during this turotial will be included in the repository
+
+**Topic Modeling with the TMTool**
+- There was no issues with downloading this software or following the steps 
+- I tried a few of the tutorials and made some visualizations
+  - The tutorials were easy enough to follow, and fairly impactful to look at the data in another way. With more context, I could see how helpful this tool could be
+  - I struggled with the second pivot table because none of my files had the years attached to them, so I got creative and organized the data abit.
+  
+![Viz A](https://github.com/Elissap5100/Week-Four-Work/blob/master/vizA.PNG) 
+![Viz B](https://github.com/Elissap5100/Week-Four-Work/blob/master/vizB.PNG) 
+![Viz C](https://github.com/Elissap5100/Week-Four-Work/blob/master/vizC.PNG) 
+
+**Topic Model in R**
+P.S - I have no idea why the six showed up like that and it would not change no matter what I tried
+- This whole process actually went quite smoothly, I only ran into one issue
+   - At the last part of the code i ran into an error: " Error in alphabet(20) : could not find function "alphabet" "
+   - Fortunatley, this issue was brought up in the discord group and the suggested fix worked perfectly.
+   
+- Here are some of the visualizations I made:
+
+![Viz A](https://github.com/Elissap5100/Week-Four-Work/blob/master/finalA.png) 
+![Viz B](https://github.com/Elissap5100/Week-Four-Work/blob/master/final2.png) 
+ 
+  
+### Bonus
+
+![B1](https://github.com/Elissap5100/Week-Four-Work/blob/master/b1.png) 
+![B2](https://github.com/Elissap5100/Week-Four-Work/blob/master/b2.png) 
+![B3](https://github.com/Elissap5100/Week-Four-Work/blob/master/b3.png)
+![B4](https://github.com/Elissap5100/Week-Four-Work/blob/master/b4.png)
