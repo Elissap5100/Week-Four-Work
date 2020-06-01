@@ -1,7 +1,34 @@
 # Week Four Notes
 
 ## Week 4 Readings
- Must do this after
+
+### https://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html
+
+- how the creation of new digital resources has changed the ways in which we read the past;
+    - I am very interested in this topic
+- "What surprises me most, is that I am not more surprised."
+   - This seems typical in the digital humanities field
+- The pictures in this article are very interesting and quite impactful
+   - Teach phto directly supports a point of fact that is written, it is "digital humanities" in action
+- "as marked up in the XML."   
+   - I always forget how widely used XML is as a lanuage, esoecially in regards to storing/archiving data in this context
+- "In other words, our ability to do a bit of close reading - of lives, of people, of happenstance, and text, with a bit of context thrown in, has become much deeper than it was fifteen years ago."
+    - This essentially sums up the entire theme of the article, and I think it is really cool that we are learning how to make use of the technologies that have so crazily impacted this field. This entire article breaks down just how helpful the digital age has become in regards to documenting, analyzing and discovering history
+- This entire article completely takes a simple text and uses various tools available to dig underneath the surface and discover more than ever possible. It truely is impressive
+- My old ob at Global affairs had alot to do with mapping, so I especially understand the significance of technlogy that has to do with the advancements is GIS systems and mapping in general. It is new to me to see it in a historical context.
+- For myself, I will read anew, and use all the tools of big data, of ngrams and power laws; and I will publish the results with graphs, tables and GIS; but I refuse to forget that my object of study, my objective, is an emotional, imaginative and empathetic engagement with Sarah Durrant, and all the people like her.
+   - Honestly, there are many impactful lines in the text but the conclusing paragraph made a very crucial point I think when it comes to digital humainties. Do not let the technology sway for the main mission. It is not to de-huminize history or turn it into some mindless project. It is a tool to enhance our understanding. We can not lose sight of our main goals.
+   
+### https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html
+
+- " quantitative approaches to historical questions."
+  - Thats a good way to word what we do sometimes!
+- The dissertation he mentioned sounds really interesting, I will have to check it out later: https://matthewlincoln.net/dissertation
+- I will not lie, most of this reading went over my head but I understand it is more the thinking process that we are studying. I find it so interesting to see just how much more infroamtion can be found by compiling these data points into vizualizations and then analyzing the results. It is numbers with historical context, and it drives our developing history.
+
+### https://rrchnm.org/wordpress/wp-content/uploads/2017/11/digital-history-and-argument.RRCHNM.pdf
+
+- Supplemental Info: https://aha.confex.com/aha/2018/webprogram/Session16534.html
 
 ## Week 4 Tasks
 
